@@ -10,8 +10,8 @@ The first thing to do is setup the file structure on your WinSCP HPC directory (
 - A "RunModels" folder - this should contain "Output", "Error" and "Superseded" folders ("Superseded" folders inside the "Output" and "Error" folders too)
 
 Next download the PLAID and WHITED datasets that can be found here (they are large so require a little time to download and move over to the HPC directories):
-https://figshare.com/articles/dataset/PLAID_2017/11605215?file=21003861
-https://www.cs.cit.tum.de/dis/resources/whited/
+- https://figshare.com/articles/dataset/PLAID_2017/11605215?file=21003861
+- https://www.cs.cit.tum.de/dis/resources/whited/
 
 Next download all my code and place in relevant folders in the HPC directories (along with all .sh and requirements.txt files).
 
