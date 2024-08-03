@@ -1,6 +1,6 @@
 # Internship_NILM_Wavelets
 
-This repo hopefully contains all required code to create folder structre, generate original augmented datasests (from TLY), applying wavelet transforms, create and test ML models and finally obtain all results!
+This repo hopefully contains all required code to create folder structre, generate original augmented datasests (from TLY: https://github.com/Thomasleeyoung/DMF_NILM/tree/master), applying wavelet transforms, create and test ML models and finally obtain all results!
 
 The first thing to do is setup the file structure on your WinSCP HPC directory (on the "work" side - more storage). I reccommend the following folders:
 - A "data" folder which will contain the PLAID & WHITED files, Original Datasets, Augmented Datasets, CWT Applied Datasests and DWT Applied Datasets - this can be setup with the MakeDataDir.py file
