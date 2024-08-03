@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas==1.5.3
+scikit-learn==1.2.2
+xgboost==1.7.3
+pickleshare==0.7.5
+keras==3.0.0
+tensorflow==2.16.1
+cuda-python==12.5.0
+tensorrt==10.1.0
+scikit-learn-intelex==2024.5.0
