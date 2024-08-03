@@ -21,7 +21,7 @@ Use the PUTTY or BitVise client to log onto the HPC and locate to the "DataGener
 3.  source .venv/bin/activate
 4.  pip install -r requirements.txt
 
-Now you are ready to run some jobs!
+Now you are ready to run some jobs (make sure to add your account number to all .sh files)!
 
 Run in the following order and use how you wish(making sure to change directories where necessary!)
 1.  "BasicDataGenerationCode"
