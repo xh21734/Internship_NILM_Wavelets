@@ -6,5 +6,6 @@ pickleshare==0.7.5
 keras==3.0.0
 tensorflow==2.16.1
 cuda-python==12.5.0
-tensorrt==10.1.0
+tensorrt==10.2.0
 scikit-learn-intelex==2024.5.0
+nvidia-cudnn-cu11==9.3.0.75
