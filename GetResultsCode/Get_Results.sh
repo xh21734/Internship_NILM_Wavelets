@@ -10,7 +10,7 @@
 #SBATCH --error=Error/GetResults%A_%a.txt
 #SBATCH --time=00:30:0
 #SBATCH --mem=12G
-#SBATCH --account=
+#SBATCH --account=mech029804
 
 # Load in python
 module add languages/python/3.12.3
