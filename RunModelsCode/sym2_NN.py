@@ -58,8 +58,8 @@ test_samples = 5000 #number of test examples
 original_freq = 5000
 sample_size_range = [50, 100, 500, 1000, 2000] #range of training samples per class
 
-save_path = "/user/work/xh21734/Intern/Data/DWT/sym2 level 2/"
-general_report_path = "/user/work/xh21734/Intern/Reports/DWT/sym2 level 2/"
+save_path = "/user/work/xh21734/Intern/Data/DWT/sym2 level 12/"
+general_report_path = "/user/work/xh21734/Intern/Reports/DWT/sym2 level 12/"
 
 #assigning relevant input type
 #probably don't need this, just have the input files labelled accordingly

@@ -11,7 +11,7 @@
 #SBATCH --error=Basic_Run/Basic_Run_Bench_err_%A.txt
 #SBATCH --time=04:00:0
 #SBATCH --mem=12G
-#SBATCH --account=
+#SBATCH --account=mech029804
 
 # Load in python
 module add languages/python/3.12.3
